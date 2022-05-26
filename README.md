@@ -47,6 +47,9 @@ https://themeisle.com/blog/what-is-a-content-management-system-cms/
 
 https://github.com/kilimchoi/engineering-blogs/network/members
 
+https://handlebarsjs.com/guide/#what-is-handlebars
+
+
 ## Contributing
 Developers may add more questions or features to the CMS application.
 
